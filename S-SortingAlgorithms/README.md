@@ -247,5 +247,5 @@ begin countSort(arr, n)
     
  <a name="disadvantageofcountingSort"></a>
 ### Disadvantage
-
+    
 - Works for restricted inputs only for a certain range and takes extra space.
